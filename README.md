@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hello, I'm Dulnyarat
 
-<!--
-**Dulnyarat9458/Dulnyarat9458** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a driven and motivated Full-Stack Developer with a strong interest in software development and new technology.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- Go & Gin (API design, performance patterns)  
+- TypeScript & Next.js (full-stack with modern frontend)
+
+
+## 🧰 Tech I Work With
+
+- **Languages:** PHP, Python  
+- **Frameworks:** Laravel, Django  
+- **Tools:** Git, Docker, PostgreSQL
+
+
+## 📫 How to reach me: 
+
+📧 **dulnyarat.9458@gmail.com**
