@@ -25,4 +25,4 @@ I am a driven and motivated Full-Stack Developer with a strong interest in softw
 ## 📊 GitHub stats
 ![Dulnyarat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dulnyarat9458&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&card_width=500)
 ## 📊 Top Languages on GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulnyarat9458&layout=compact&langs_count=20&theme=tokyonight&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulnyarat9458&layout=compact&langs_count=10&theme=tokyonight&card_width=500)
