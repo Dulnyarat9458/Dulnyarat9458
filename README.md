@@ -18,5 +18,7 @@ I am a driven and motivated Full-Stack Developer with a strong interest in softw
 
 ## 📫 How to reach me: 
 
-📧 **dulnyarat.9458@gmail.com**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulnyarat-banphatathi)
+| 📧 Email                        | 🔗 LinkedIn                                                                 |
+|--------------------------------|------------------------------------------------------------------------------|
+| dulnyarat.9458@gmail.com       | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulnyarat-banphatathi) |
+
