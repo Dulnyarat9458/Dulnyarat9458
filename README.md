@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Dulnyarat
 
 I am a driven and motivated Full-Stack Developer with a strong interest in software development and new technology.
-![Profile views](https://komarev.com/ghpvc/?username=Dulnyarat9458&color=blue)
+
 
 ## 🌱 Currently Learning
 
