@@ -13,7 +13,7 @@ I am a driven and motivated Full-Stack Developer with a strong interest in softw
 
 - **Languages:** PHP, Python, JavaScript, Dart
 - **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS, Django, Laravel, Flutter
-- **Tools:** Git, Docker, PostgreSQL, MySQL
+- **Tools:** Git, Docker, PostgreSQL, MySQL, Firebase
 
 
 ## 📫 How to reach me: 
