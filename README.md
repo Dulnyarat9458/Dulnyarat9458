@@ -24,4 +24,4 @@ I am a driven and motivated Full-Stack Developer with a strong interest in softw
 
 
 ## 📊 Top Languages on GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulnyarat9458&layout=compact&langs_count=10&theme=tokyonight&card_width=500)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulnyarat9458&layout=compact&langs_count=12&theme=tokyonight&card_width=500)
