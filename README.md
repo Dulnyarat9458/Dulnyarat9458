@@ -15,6 +15,3 @@ I am a driven and motivated Full-Stack Developer with a strong interest in softw
 |--------------------------------|------------------------------------------------------------------------------|
 | dulnyarat.9458@gmail.com       | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dulnyarat-banphatathi) |
 
-
-## 📊 Top Languages on GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dulnyarat9458&layout=compact&langs_count=12&theme=tokyonight&card_width=500)
