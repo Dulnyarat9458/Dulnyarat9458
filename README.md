@@ -2,12 +2,6 @@
 
 I am a driven and motivated Full-Stack Developer with a strong interest in software development and new technology.
 
-## 🌱 Currently Learning
-
-- Go & Gin
-- TypeScript & Next.js
-
-
 ## 🧰 Tech I Work With
 
 - **Languages:** PHP, Python, JavaScript, Dart
